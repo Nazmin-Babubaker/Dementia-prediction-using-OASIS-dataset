@@ -36,6 +36,6 @@ ceptibility. Longitudinal meta-analyses show that higher educational levels are 
  Interestingly, SES exhibited opposite associations across genders: higher SES was
  linked to increased dementia risk in males, whereas lower SES was associated with higher
 risk in females. This aligns with recent evidence showing sex differences in how socioe
-conomic factors and brain structure interrelate in dementia risk [11]. Socio-behavioral
+conomic factors and brain structure interrelate in dementia risk. Socio-behavioral
  dynamics—such as differential occupational exposure, healthcare access, and prolonged
- stressors—likely underpin these gender-based variations [13,23]
+ stressors—likely underpin these gender-based variations.
